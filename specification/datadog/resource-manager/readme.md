@@ -26,16 +26,16 @@ These are the global settings for the datadog.
 
 ```yaml
 openapi-type: arm
-tag: package-2020-01-17-preview
+tag: package-2019-02-01-preview
 ```
 
-### Tag: package-2020-01-17-preview
+### Tag: package-2019-02-01-preview
 
-These settings apply only when `--tag=package-2020-01-17-preview` is specified on the command line.
+These settings apply only when `--tag=package-2019-02-01-preview` is specified on the command line.
 
-```yaml $(tag) == 'package-2020-01-17-preview'
+```yaml $(tag) == 'package-2019-02-01-preview'
 input-file:
-  - Microsoft.Datadog/preview/2020-01-17-preview/datadog.json
+  - Microsoft.Datadog/preview/2019-02-01-preview/datadog.json
 ```
 
 ---

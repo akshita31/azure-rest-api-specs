@@ -10,7 +10,7 @@ python:
   payload-flattening-threshold: 2
   namespace: Microsoft.Datadog
   package-name: datadog
-  package-version: 2020-01-17-preview
+  package-version: 2019-02-01-preview
   clear-output-folder: true
 ```
 
